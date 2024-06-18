@@ -5,8 +5,3 @@
 - 📫 How to reach me: See contact.txt on my github profile
 - 😄 Pronouns: Not a github profile
 - ⚡ Fun fact: I don't like writing github profiles
-
-<!---
-RedToffee/RedToffee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
