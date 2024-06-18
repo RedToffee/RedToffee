@@ -2,7 +2,7 @@
 - 👀 I’m interested in not writing a github profile
 - 🌱 I’m currently learning how not to write github profiles
 - 💞️ I’m looking to collaborate on a github profile
-- 📫 How to reach me not my github profile
+- 📫 How to reach me: See contact.txt on my github profile
 - 😄 Pronouns: Not a github profile
 - ⚡ Fun fact: I don't like writing github profiles
 
